@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400;700&display=swap');
+
+body {
+    background-color: #aaa;
+}
+p {
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    /* VW sets the font/text based on the width of the viewport (aka browser window) */
+    font-size: 2vw;
+    text-align: center;
+    border-bottom: 5px solid #000;
+    padding-bottom: 10px;
+    width: 47.5%;
+    margin: auto;
+}
+img {
+    width: 22.5%;
+    margin: 1.25%;
+    float: left;
+}
